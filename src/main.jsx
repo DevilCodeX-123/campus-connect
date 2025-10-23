@@ -4,7 +4,8 @@
 
 // createRoot(document.getElementById("root")!).render(<App />);
 // src/main.tsx
-<script type="module" src="/src/main.tsx"></script>
+{/* <script type="module" src="/src/main.tsx"></script> */}
+// src/main.jsx
 // src/main.jsx
 import React from "react";
 import ReactDOM from "react-dom/client";
