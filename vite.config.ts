@@ -16,9 +16,8 @@
 //     },
 //   },
 // }));
-import { defineConfig } from 'vite'
 import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react-swc'; // use SWC plugin
+import react from '@vitejs/plugin-react-swc'; // ✅ use SWC plugin
 import path from 'path';
 
 export default defineConfig({
